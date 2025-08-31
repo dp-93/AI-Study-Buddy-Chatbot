@@ -3,7 +3,6 @@ A simple, serverless web application that answers any question by connecting to 
 
 ➡️ https://dp-93.github.io/AI-Study-Buddy-Chatbot/
 
-Note: Replace the image link above with a screenshot of your working app for a personal touch!
 
 🚀 Features
 Ask Anything: Users can input any question into a text box.
